@@ -1,0 +1,50 @@
+.article{
+	border:1px solid #ccc;
+}
+.article h1{
+	text-align: center;
+    font-size: 24px;
+    color: #606060;
+    font-family: Swiss-721-Bold-BT;
+    text-transform: uppercase;
+    font-weight: bolder;
+    letter-spacing: 4px;
+	margin-bottom:10px;
+}
+.media .media-left img{
+	border: 1px solid #ccc;
+    border-radius: 100px;
+}
+.media .media-body{
+	padding-top:20px;
+}
+.media .media-body h4{
+	font-family: Swiss-721-Bold-BT;
+    text-transform: uppercase;
+	font-size: 20px;
+    color: #414141;
+	font-weight: bolder;
+}
+.media .media-body p{
+	font-family: swiss_721_thin_bt;
+    text-transform: uppercase;
+	font-size: 20px;
+    color: #414141;
+	font-weight: bolder;
+}
+.media{
+	padding:10px;
+}
+.blog_description{
+	padding:10px;
+}
+.blog_description h3{
+	font-family: Swiss-721-Bold-BT;
+}
+.blog_description p{
+	font-family: swiss_721_thin_bt;
+	font-size:18px;
+	color: #414141;
+	font-weight: bolder;
+	letter-spacing: 2px;
+}
